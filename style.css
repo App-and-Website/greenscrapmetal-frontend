@@ -1,7 +1,10 @@
 .header_logo img{
     height: 80px;
 }
-
+.main-header .header-upper {
+    position: relative;
+    padding: 0px 0;
+}
 .upper_header .header_logo .logo{
     padding: 0!important;
 }
@@ -32,6 +35,10 @@
 .foot_bottom_div{
     display: flex;
     justify-content: center;
+}
+.banner_box{
+    padding: 70px 10px 50px 10px!important;
+    min-height: 580px!important;
 }
 @media screen and (max-width: 1140px){
     .contact_phone_mobile{
