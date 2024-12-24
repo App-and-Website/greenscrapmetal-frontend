@@ -268,3 +268,15 @@ grid-template-columns: 50% 50%;
     }
 }
 
+
+
+.align_senterdet{
+    margin-top: 10px;
+}
+
+
+.form_file input{
+    width: 100%!important;
+    border: 1px solid #ccc;
+    margin-bottom: 16px;
+}
